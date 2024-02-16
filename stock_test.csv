@@ -1,0 +1,4 @@
+Ticker,Closing Price,Daily Price Change,Percentage Change,volume,Average 3 Month Volume,52 Week Closing Price Range,Graph Link
+TSLA,200.45,+11.74,(+6.22%),119\,932\,134,112\,212\,688,152.37 - 299.29,https://finance.yahoo.com/chart/TSLA/
+AAPL,183.86,-0.29,(-0.16%),63\,936\,069,53\,217\,668,143.90 - 199.62,https://finance.yahoo.com/chart/AAPL/
+TWLO,61.15,-11.12,(-15.39%),19\,017\,865,2\,610\,050,45.02 - 78.16,https://finance.yahoo.com/chart/TWLO/
